@@ -1,5 +1,5 @@
 import React from 'react';
-
+// test push&pull
 interface CompanyCardProps {
   name: string;
   description: string;
